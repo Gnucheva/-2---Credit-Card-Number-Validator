@@ -1,4 +1,4 @@
-# Отчёт о тестировании установки IntelliJ IDEA под Windiws 64 bit 
+# Отчёт о тестировании установки IntelliJ IDEA под Windows 64 bit 
 
 28.04.2020 было проведено тестирование устанвоки приложения IntelliJ IDEA на Windows 10Pro 64 bit 
 
